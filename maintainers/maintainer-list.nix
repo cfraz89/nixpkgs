@@ -836,6 +836,11 @@
     github = "Chaddai";
     name = "Chaddaï Fouché";
   };
+  cfraz89 = {
+    email = "cfraz89@gmail.com";
+    github = "cfraz89";
+    name = "Christopher Fraser";
+  };
   chaduffy = {
     email = "charles@dyfis.net";
     github = "charles-dyfis-net";

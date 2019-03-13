@@ -1633,6 +1633,8 @@ in {
 
   pytest-sugar = callPackage ../development/python-modules/pytest-sugar { };
 
+  pytest-selenium = callPackage ../development/python-modules/pytest-selenium { };
+
   tinycss = callPackage ../development/python-modules/tinycss { };
 
   tinycss2 = callPackage ../development/python-modules/tinycss2 { };
